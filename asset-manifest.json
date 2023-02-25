@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0b1502ce.css",
+    "main.js": "/static/js/main.aa3d43aa.js",
+    "static/js/787.7be1cf7b.chunk.js": "/static/js/787.7be1cf7b.chunk.js",
+    "static/media/snmzlogo.png": "/static/media/snmzlogo.70de6f19b266180901f4.png",
+    "static/media/banner-img1.png": "/static/media/banner-img1.0d4877f436e95ea18420.png",
+    "static/media/poppins-v5-latin-300.ttf": "/static/media/poppins-v5-latin-300.e9dd61a4c8fe8a49c1f7.ttf",
+    "static/media/logo.svg": "/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/index.html",
+    "main.0b1502ce.css.map": "/static/css/main.0b1502ce.css.map",
+    "main.aa3d43aa.js.map": "/static/js/main.aa3d43aa.js.map",
+    "787.7be1cf7b.chunk.js.map": "/static/js/787.7be1cf7b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0b1502ce.css",
+    "static/js/main.aa3d43aa.js"
+  ]
+}
